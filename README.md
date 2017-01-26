@@ -28,4 +28,5 @@ how to best implement this course.
 * Ethan White
 
 I'd also like to thank the Academy.
+And Reese's.
 
