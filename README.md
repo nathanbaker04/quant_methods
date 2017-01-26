@@ -27,3 +27,5 @@ I would like to thank the following people for helping provide suggestions about
 how to best implement this course.
 * Ethan White
 
+I'd also like to thank the Academy.
+
